@@ -12,3 +12,6 @@ The Total sample from yhe test shows that the p-value is  .06 with a mean value 
 The results for Lot1 and Lot2 show similar results.
 
 The result of Lot3 shows that the p-value is .45 and a mean valu of 1498.78.
+
+## Study Design: MechaCar vs Competition
+A few metrics that could be tested is the overall quality vs. cost of the MechaCar vs. competition. Most compares wouldn't mind paying a little more over the competition if they know what they're purchasing is worth the value. Safety rating is also important to be tested. The Hypothesis is if the MechaCar has a higher safety rating and overall rating units sold would be higher than the competition. To test the hypothesis comparing unit cost, units sold, and overall rating of the vehicles would further back the hypothesis or disprove the theory. Some data points that may help in hte statistical test would be how many units sold, how many nits are on the road over the years to show if they're breaking down or generally upholding its quality. Observing the xost it takes to manufacture vs MSRP of the MechaCar and the competition would all help MechaCar compete in the market.
